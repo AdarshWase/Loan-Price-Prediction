@@ -1,1 +1,12 @@
-# Loan-Price-Prediction
+![abcd](https://github.com/AdarshWase/Loan-Price-Prediction/blob/main/pics/2dd4bc61f6584588bcc293d7fa8dece3-0001.jpg)
+![abcd](https://github.com/AdarshWase/Loan-Price-Prediction/blob/main/pics/2dd4bc61f6584588bcc293d7fa8dece3-0002.jpg)
+![abcd](https://github.com/AdarshWase/Loan-Price-Prediction/blob/main/pics/2dd4bc61f6584588bcc293d7fa8dece3-0003.jpg)
+![abcd](https://github.com/AdarshWase/Loan-Price-Prediction/blob/main/pics/2dd4bc61f6584588bcc293d7fa8dece3-0004.jpg)
+![abcd](https://github.com/AdarshWase/Loan-Price-Prediction/blob/main/pics/2dd4bc61f6584588bcc293d7fa8dece3-0005.jpg)
+![abcd](https://github.com/AdarshWase/Loan-Price-Prediction/blob/main/pics/2dd4bc61f6584588bcc293d7fa8dece3-0006.jpg)
+![abcd](https://github.com/AdarshWase/Loan-Price-Prediction/blob/main/pics/2dd4bc61f6584588bcc293d7fa8dece3-0007.jpg)
+![abcd](https://github.com/AdarshWase/Loan-Price-Prediction/blob/main/pics/2dd4bc61f6584588bcc293d7fa8dece3-0008.jpg)
+![abcd](https://github.com/AdarshWase/Loan-Price-Prediction/blob/main/pics/2dd4bc61f6584588bcc293d7fa8dece3-0009.jpg)
+![abcd](https://github.com/AdarshWase/Loan-Price-Prediction/blob/main/pics/2dd4bc61f6584588bcc293d7fa8dece3-0010.jpg)
+![abcd](https://github.com/AdarshWase/Loan-Price-Prediction/blob/main/pics/2dd4bc61f6584588bcc293d7fa8dece3-0011.jpg)
+![abcd](https://github.com/AdarshWase/Loan-Price-Prediction/blob/main/pics/2dd4bc61f6584588bcc293d7fa8dece3-0012.jpg)
